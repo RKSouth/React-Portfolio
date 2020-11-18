@@ -1,8 +1,8 @@
-.card-Image-fluid{
+.card-image{
     margin: 3%;
 
-    max-width:30vw;
-    max-height:30vh;
+    max-width:20vw;
+    max-height:20vh;
     min-width:93%;
     min-width:93%;
 }
@@ -10,6 +10,13 @@
 
 .card {
     margin: 3%;
+    width: 40%;
+    flex-basis: unset;
+    border-style: none;
     /* min-width:100%;
     min-width:100%; */
+}
+
+h5 {
+    font-size: 30px;
 }

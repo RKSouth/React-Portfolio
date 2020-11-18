@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar/Navbar'
 import Contact from './Contact/Contact'
 import About from './About/About'
-import Portfolio from './Portfolio/Portfolio'
+import Portfolio from './Portfolio'
 import Jumbotron from '../components/Jumbotron/Jumbotron'
 import Footer from '../components/Footer'
 

@@ -1,8 +1,8 @@
 import React from 'react';
-// import './Portstyle.css'
-import Quiz from '../components/Projects/CodeQuiz'
-import Drinks from '../components/Projects/Drinks'
-import Burgers from '../Images/EatDaBurger.png'
+import "./Portfolio/Portstyle.css"
+import Cocktails from '../components/Projects/Drinks'
+import Burgers from '../components/Projects/EDB'
+
 
 
 function Portfolio() {
@@ -15,12 +15,19 @@ function Portfolio() {
             <hr className="my-4"/>
               <div className="row m-1" >
                 {/* image card */}
-               < Drinks />
+               <Cocktails />
+               <Burgers />
+              </div>
+              <div className="row m-1" >
+                {/* image card */}
+               <Cocktails />
+               <Cocktails />
               </div>
           </div>  
         </div>
        </div>
-    
+    </div>  
+      
     )
 }
  export default Portfolio;
