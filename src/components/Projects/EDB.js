@@ -11,6 +11,7 @@ function Burgers() {
         <a href="https://github.com/RKSouth/NodeExpressHandlebars">Github Link</a>
         <span> || </span>
           <a href="https://lit-garden-17610.herokuapp.com/">Live Deployment</a>
+          <hr/>
           <img src={EDB} className="card-Image-fluid" alt="eat-da-burgers=app"/>
           </div>
           </div>

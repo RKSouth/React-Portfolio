@@ -7,6 +7,15 @@
     min-width:93%;
 }
 
+.card-Image-fluid {
+    margin: 3%;
+
+    max-width:20vw;
+    max-height:20vh;
+    min-width:93%;
+    min-width:63%;
+
+}
 
 
 .card {

@@ -11,6 +11,7 @@ function Cocktails() {
         <a href="https://github.com/RKSouth/drink-to-the-weather">Github Link</a>
         <span> || </span>
           <a href="https://rksouth.github.io/drink-to-the-weather/">Live Deployment</a>
+          <hr/>
           <img src={Drinks} className="card-image" alt="bar app"/>
           </div>
           </div>
