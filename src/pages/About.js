@@ -1,6 +1,5 @@
 import React from 'react';
 // import Me from '../Images/ME.jpg';
-import './style.css';
 function About() {
     return (
     <div className="container col-sm-10 col-md-8 col-lg-8 mr-20 ml-2> ">
@@ -22,10 +21,7 @@ function About() {
             <p>
               Skills: HTML, CSS, JavaScript, jQuery, node.js, python, express.js, Heavy Metal Analysis
               </p>
-              <p>
-              If you would like to contact me directly please feel free to email me at rkelmsouthworth@gmail.com
-             
-            </p>
+           
             </div>
           </div>
         </div>

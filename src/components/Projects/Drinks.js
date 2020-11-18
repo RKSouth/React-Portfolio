@@ -3,7 +3,7 @@ import Drinks from '../Images/party-drinks.png'
 
 function Cocktails() {
     return (
-        <div className="card">
+        <div className="card  col-md-6 p-3">
         <div className="card-Image">
           <h5 class="card-title">Drink to the Weather</h5>
         

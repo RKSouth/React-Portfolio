@@ -7,11 +7,18 @@ function Contact() {
         <div className="card-row">
           <div className="card-body">
             <h5 className="card-title">Contact</h5>
+            <p>
+              Email: rkelmsouthworth@gmail.com
+            </p>
+          
+            <p>Los Angeles, California</p>
             <a href="https://github.com/RKSouth">Github</a>
               <span> || </span>
               <a href="https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3">Connect on Linkedin</a>
               <span> || </span>
               <a href="https://docs.google.com/document/d/1Z4wGrJbG7TamRr16WFWznH9-caVI6F3ocxiDRfPE-rQ/edit?usp=sharing">View Resume</a>
+            
+         
             <hr className="my-4"/>
            
               

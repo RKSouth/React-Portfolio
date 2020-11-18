@@ -1,21 +1,22 @@
 import React from 'react';
-import Drinks from '../Images/party-drinks.png'
+import GameOver from '../Images/GameOver.png'
 
-function Cocktails() {
+function Snake() {
     return (
-        <div className="card">
+        <div className="card  col-md-6 p-3">
         <div className="card-Image">
-          <h5 class="card-title">Drink to the Weather</h5>
-          <hr/>
-            <p class="card-text">An at home bartender app built for my first group project</p>
-        <a href="https://github.com/RKSouth/drink-to-the-weather">Github Link</a>
+          <h5 class="card-title">Snake Game</h5>
+        
+            <p class="card-text">My take on the snake game, using p5.js</p>
+        <a href="https://github.com/RKSouth/Snake-Game">Github Link</a>
         <span> || </span>
           <a href="https://rksouth.github.io/drink-to-the-weather/">Live Deployment</a>
-          <img src={Drinks} className="card-Image-fluid" alt="bar app"/>
+          <hr/>
+          <img src={GameOver} className="card-Image-fluid" alt="bar app"/>
           </div>
           </div>
     )
 
 }
 
-export default Cocktails
+export default Snake

@@ -3,7 +3,7 @@ import EDB from "../Images/eatdaburgers.png"
 
 function Burgers() {
     return (
-        <div className="card">
+        <div className="card  col-md-6 p-3">
         <div className="card-Image">
           <h5 class="card-title">Eat-Da-Burgers</h5>
         

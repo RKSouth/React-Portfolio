@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from "../Navbar/Navbar"
+import Navbar from "../Navbar"
 import Me from '../Images/ME.jpg';
 import './Jumbostyle.css'
 
@@ -14,7 +14,7 @@ function Jumbotron() {
            <div className="container">
              <h1 className="display-4">Rachael Kelm-Southworth</h1>
              <img src={Me} alt="woman with glasses" className="img-fluid"/>
-             <p className="lead">Full-Stack Developer</p>
+             <p className="lead">Full-Stack Web Developer</p>
            </div>
       </div>
   </div>

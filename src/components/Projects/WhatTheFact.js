@@ -1,21 +1,22 @@
 import React from 'react';
-import Drinks from '../Images/party-drinks.png'
+import Facts from '../Images/WhattheFact.png'
 
-function Cocktails() {
+function WTF() {
     return (
-        <div className="card">
+        <div className="card  col-md-6 p-3">
         <div className="card-Image">
-          <h5 class="card-title">Drink to the Weather</h5>
-          <hr/>
-            <p class="card-text">An at home bartender app built for my first group project</p>
-        <a href="https://github.com/RKSouth/drink-to-the-weather">Github Link</a>
+          <h5 class="card-title">What The Fact?</h5>
+         
+            <p class="card-text">A Fullstack application using sql, node, and express that allows you to sign in, check whether a fact is true or not and save it to your profile.</p>
+        <a href="https://github.com/RKSouth/whatTheFact">Github Link</a>
         <span> || </span>
-          <a href="https://rksouth.github.io/drink-to-the-weather/">Live Deployment</a>
-          <img src={Drinks} className="card-Image-fluid" alt="bar app"/>
+          <a href="https://what-the-fact.herokuapp.com/">Live Deployment</a>
+          <hr/>
+          <img src={Facts} className="card-Image-fluid" alt="bar app"/>
           </div>
           </div>
     )
 
 }
 
-export default Cocktails
+export default WTF

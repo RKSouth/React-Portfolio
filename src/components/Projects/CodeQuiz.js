@@ -3,7 +3,7 @@ import Coding from '../Images/FinishedProduct.png'
 
 function Quiz() {
     return (
-        <div className="card">
+        <div className="card  col-md-6 p-3">
         <div className="card-Image">
           <h5 class="card-title">History of Coding Quiz</h5>
         
