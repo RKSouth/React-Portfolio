@@ -1,18 +1,18 @@
-import React from 'react'
-import Me from './Images/ME.jpg'
-
+import React from 'react';
+// import Me from '../Images/ME.jpg';
+import './style.css';
 function About() {
     return (
     <div className="container col-sm-10 col-md-8 col-lg-8 mr-20 ml-2> ">
         <div className="card-row">
           <div className="card-body">
-          
-            <hr className="my-4"/>
+            <h5 className="card-title">About Me</h5>
+           
             <p className="card-text"/>
               <div className="image-wrapper float-left pr-3">
                 <div className="card-body">
          
-                <img src={Me} alt="woman with glasses" className="img-fluid"/>
+                {/* <img src={Me} alt="woman with glasses" className="img-fluid"/> */}
              </div>
              <div className="card-text"  className="single-post-content-wrapper p-3">
              <p> I am currently a student at UC Berkeley's Extension Full Stack Web Developer Certificate Program. I have BS in
