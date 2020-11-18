@@ -1,8 +1,9 @@
 import React from 'react'
 
 function Navbar() {
+  return (
 
-<div class="container col-sm-10 col-md-8 col-lg-8"> I am a navbar
+    <div class="container col-sm-10 col-md-8 col-lg-8"> I am a navbar
   {/* <nav class="navbar navbar-expand-lg navbar-light ">
     <a class="navbar-brand p-3 mb-2 "><strong>Rachael Kelm-Southworth</strong></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,6 +25,9 @@ function Navbar() {
     </div>
   </nav> */}
   </div>
+  )
+
+
 
 }
 

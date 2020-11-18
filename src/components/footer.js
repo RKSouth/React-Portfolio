@@ -1,9 +1,8 @@
 import React from 'react'
 
 function Footer() {
-
-
-<footer>
+  return (
+    <footer>
   <div class="container col-sm-10 col-md-8 col-lg-8">
     <nav class="navbar navbar-expand-lg navbar-light ">
       <a class="navbar-brand p-3 mb-2 "><strong></strong></a>
@@ -17,6 +16,9 @@ function Footer() {
     </div>
 
 </footer>
+  )
+
+
 }
 
 export default Footer;
