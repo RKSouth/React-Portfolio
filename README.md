@@ -46,24 +46,18 @@ Then, Manuel taught me how to use id's in react.
 
 __2. Linked Images__
 
-In order to search an area I built a handlesearch function that looks for what is being typed in and compares to the data in the fields.
-Then, I wrote -
-      <input className="form-control" type="search" placeholder="search"onChange={event => this.handleSearch(event)}/> 
-To be called as part of the JSX.
-
+In order to display images in React.js you can't simply dump the source into your box/container/card and expect it to work, turns out. So I had to go a searching. I found a really helpful medium [article](https://medium.com/better-programming/how-to-display-images-in-react-dfe22a66d5e7) that details all the ways (with super helpful code snippets) you can link an image into a site. I followed the hook examples by importing the image first and then setting the source = {name} where I wanted it to be placed.
 
 __3. Well Proportioned Cards__
 
-I was unable to sort my search by ascending/descending or alphabetical order. To be frank, I did a lot of research and found myself unable to commit to one way of doing it. But let me run down the top options:
+I have struggled with getting size/proportion right on previous assignments. However, I think I was able to do a pretty good job, I used a combination of bootstrap sizing and css. Below you can see an image of my CSS:
 
-1. I found a great article on column sorting, [Link](https://adazzle.github.io/react-data-grid/docs/examples/column-sorting) which seems to take the work out of it for you. It has a long column and basically shows how to feed the data in and get every single column to sort at the same time. Seems like a no-brainer but, I got a little stuck on how to make the classes/functions work together (as classes are my biggest nemesis in coding). I tried 3 ways different and swiftly went back to original code.
-
-2. Write sort function - I do have a fantastic sort function but -it feels like it's missing something. not quite sure but when I try to use it the same way I made the search function work it falls apart. I left it in, because in the same way that classes are something I have to befriend, functions are  old friends. I tried building my sorts out in a special data land but like the search functions they seemed to migrate. 
+![CSS](/Images/CSS.png)
 
 
 
 ## Usage
-### How do you use this project? This is meant for anyone looking for a more structured approach to exercise and working out. If you are looking to keep an easy to manage website 
+### How do you use this project? How ever you would like.
  
 ## Author 
 Rachael Kelm-Southworth
