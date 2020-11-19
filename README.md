@@ -1,5 +1,5 @@
-# Staff Directory
-![Staff Directory](Images/FrontPage.png)
+# React Portfolio
+![React Portfolio](Images/FrontPage.png)
 
 ### A simple app to help you sort through your employees by name
 
@@ -27,15 +27,24 @@
 
 __1. A Single Page Display__
  
-In order to get a table of employees I first had to call the employees with an axios call. In order to get the promise structure correct and to get it write everything out I had to use componentdidMount that looped through the and then follow it up with setStcate.
+Ever since I started building portfolios I always wanted the single page display. I wanted it to be one beautiful page of awesomeness because that's how the pros do it. 
 
-![ComponentDidMount](/Images/Cod.png)
+First I started by calling all my pages as part of the Homepage:
 
-Then this is followed up later by a render table which calls out the previously named stuff and puts it in a neat little table.
+![Home](/Image/CodeHomePage.png)
 
-![Table](/Images/CodeSnippet.png)
+However, the real trick was getting the Navigation to auto-scroll to the section once it was clicked. Many of classmates chose to do a switch route, which I admit, intrigued me. I watched many videos on how to build routes and attempted it several times, unsuccessfully.  
+Then, Manuel taught me how to use id's in react. 
 
-__2. A search Area__
+1. First you make sure you are linking your page correctly by doing an import Home from "..." the file path
+
+2. Then you place an id="Home" where you want the home to link to, in my case the jumbotron.
+
+3. Then you set the href="#Home" in side the a tag - this assures a single page scroll.
+
+ 
+
+__2. Linked Images__
 
 In order to search an area I built a handlesearch function that looks for what is being typed in and compares to the data in the fields.
 Then, I wrote -
@@ -43,7 +52,7 @@ Then, I wrote -
 To be called as part of the JSX.
 
 
-__3. To Be Added Later: A sortable Table__
+__3. Well Proportioned Cards__
 
 I was unable to sort my search by ascending/descending or alphabetical order. To be frank, I did a lot of research and found myself unable to commit to one way of doing it. But let me run down the top options:
 
