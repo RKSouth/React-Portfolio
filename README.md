@@ -54,6 +54,19 @@ I have struggled with getting size/proportion right on previous assignments. How
 
 ![CSS](/Images/CSS.png)
 
+__4. GitHub Deploy Instructions__
+
+I also included written instructions on how to deploy a react app to github.
+![deploy](GHPagesDeployInstructions.MD)
+
+__5. Future Development__ 
+
+* Add some database components
+
+* Tweak the display -it's decent but it always could be better
+
+* Include more React centric code - I used a lot of what I already know for this current version but I would like a portfolio (or a project) that doesn't rely on the methods I have used before.
+
 
 
 ## Usage
