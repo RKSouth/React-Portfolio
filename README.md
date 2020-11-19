@@ -57,7 +57,7 @@ I have struggled with getting size/proportion right on previous assignments. How
 __4. GitHub Deploy Instructions__
 
 I also included written instructions on how to deploy a react app to github.
-![deploy](GHPagesDeployInstructions.MD)
+[deploy](GHPagesDeployInstructions.MD)
 
 __5. Future Development__ 
 
