@@ -1,11 +1,11 @@
-.card-image{
+/* .card-image{
     margin: 3%;
 
     max-width:20vw;
     max-height:20vh;
     min-width:93%;
     min-width:93%;
-}
+} */
 
 .card-Image-fluid {
     margin: 3%;
@@ -23,6 +23,7 @@ background-position: center;
 background-size:cover
 
 
+
 }
 
 
@@ -32,8 +33,8 @@ background-size:cover
     flex-basis: unset;
     border-style: none;
     min-width: 400px;
-    /* min-width:100%;
-    min-width:100%; */
+    opacity: 0.85;
+    background-color: rgb(241, 241, 241);
 }
 
 h5 {

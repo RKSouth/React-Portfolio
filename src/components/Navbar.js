@@ -18,18 +18,19 @@ function Navbar() {
   <div className="collapse navbar-collapse" id="navbarNav">
     <ul className="navbar-nav">
     <li className="nav-item active">
-        <a className="nav-link" href={Home}>Home <span className="sr-only">(current)</span></a>
+        <a className="nav-link" href="#Home">Home <span className="sr-only">(current)</span></a>
       </li>
       <li className="nav-item active">
       {/* <Link to="/About">About Me</Link> */}
-        <a className="nav-link" href={About}>About <span className="sr-only">(current)</span></a>
+        <a className="nav-link" href="#About">About <span className="sr-only">(current)</span></a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href={Portfolio}>Portfolio</a>
+        <a className="nav-link" href="#Contact">Contacts</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href={Contact}>Contacts</a>
+        <a className="nav-link" href="#Portfolio">Portfolio</a>
       </li>
+     
     </ul>
   </div>
 </nav>

@@ -9,7 +9,7 @@ import Snake from "../components/Projects/SnakeGame"
 
 function Portfolio() {
     return (
-    <div className="main">
+    <div className="main" id ="Portfolio">
       <div className="container col-sm-10 col-md-8 col-lg-8>">
         <div className="card-row">
           <div className="card-body">

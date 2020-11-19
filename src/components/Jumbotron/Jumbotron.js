@@ -6,7 +6,7 @@ import './Jumbostyle.css'
 function Jumbotron() {
   return (
   <div>
-   <div className="row-3">
+   <div className="row-3" id="Home">
     <Navbar />
     </div>
       <div className="row-3"> 
@@ -14,10 +14,10 @@ function Jumbotron() {
            <div className="container">
              <h1 className="display-4">Rachael Kelm-Southworth</h1>
              <img src={Me} alt="woman with glasses" className="img-fluid"/>
-             <p className="lead">Full-Stack Web Developer</p>
+             <p className="lead" id ="About">Full-Stack Web Developer</p >
            </div>
       </div>
-  </div>
+  </div >
    </div>
   )
 }

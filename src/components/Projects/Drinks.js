@@ -12,7 +12,7 @@ function Cocktails() {
         <span> || </span>
           <a href="https://rksouth.github.io/drink-to-the-weather/">Live Deployment</a>
           <hr/>
-          <img src={Drinks} className="card-image" alt="bar app"/>
+          <img src={Drinks} className="card-Image-fluid" alt="bar app"/>
           </div>
           </div>
     )
