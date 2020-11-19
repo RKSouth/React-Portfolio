@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.bec23291.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.fb5da180.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.fb5da180.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.54fa80a4.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.54fa80a4.js.map",
+    "static/js/2.6b982bab.chunk.js": "/React-Portfolio/static/js/2.6b982bab.chunk.js",
+    "static/js/2.6b982bab.chunk.js.map": "/React-Portfolio/static/js/2.6b982bab.chunk.js.map",
+    "static/js/3.096e5de9.chunk.js": "/React-Portfolio/static/js/3.096e5de9.chunk.js",
+    "static/js/3.096e5de9.chunk.js.map": "/React-Portfolio/static/js/3.096e5de9.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.bec23291.chunk.css.map": "/React-Portfolio/static/css/main.bec23291.chunk.css.map",
+    "static/js/2.6b982bab.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.6b982bab.chunk.js.LICENSE.txt",
+    "static/media/ClickerGame.7ade7459.png": "/React-Portfolio/static/media/ClickerGame.7ade7459.png",
+    "static/media/FinishedProduct.0930f554.png": "/React-Portfolio/static/media/FinishedProduct.0930f554.png",
+    "static/media/GameOver.a9b0e142.png": "/React-Portfolio/static/media/GameOver.a9b0e142.png",
+    "static/media/ME.20d89714.jpg": "/React-Portfolio/static/media/ME.20d89714.jpg",
+    "static/media/WhattheFact.4a84138a.png": "/React-Portfolio/static/media/WhattheFact.4a84138a.png",
+    "static/media/eatdaburgers.879fd4fc.png": "/React-Portfolio/static/media/eatdaburgers.879fd4fc.png",
+    "static/media/party-drinks.5299f23c.png": "/React-Portfolio/static/media/party-drinks.5299f23c.png",
+    "static/media/Jumbostyle.css": "/React-Portfolio/static/media/pexels-eberhard-grossgasteiger-1743392.dcd33bb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54fa80a4.js",
+    "static/js/2.6b982bab.chunk.js",
+    "static/css/main.bec23291.chunk.css",
+    "static/js/main.fb5da180.chunk.js"
+  ]
+}
