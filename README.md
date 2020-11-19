@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Staff Directory
+![Staff Directory](Images/FrontPage.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### A simple app to help you sort through your employees by name
 
-## Available Scripts
+## Table of Contents
+* [Technologies Used](Technologies_Used)
+* [Deployed Site](Deployed)
+* [Features](Features)
+* [Usage](Usage)
+* [Author](Author)
+* [Credits](Credits)
+* [License](License)
 
-In the project directory, you can run:
+## Technologies_Used
+* HTML 
+* CSS
+* React.js
+* github pages
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Deployed Site
+[ClickClick!]( https://rksouth.github.io/React-Portfolio/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Features 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+__1. A Single Page Display__
+ 
+In order to get a table of employees I first had to call the employees with an axios call. In order to get the promise structure correct and to get it write everything out I had to use componentdidMount that looped through the and then follow it up with setStcate.
 
-### `npm run build`
+![ComponentDidMount](/Images/Cod.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Then this is followed up later by a render table which calls out the previously named stuff and puts it in a neat little table.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Table](/Images/CodeSnippet.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+__2. A search Area__
 
-### `npm run eject`
+In order to search an area I built a handlesearch function that looks for what is being typed in and compares to the data in the fields.
+Then, I wrote -
+      <input className="form-control" type="search" placeholder="search"onChange={event => this.handleSearch(event)}/> 
+To be called as part of the JSX.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+__3. To Be Added Later: A sortable Table__
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+I was unable to sort my search by ascending/descending or alphabetical order. To be frank, I did a lot of research and found myself unable to commit to one way of doing it. But let me run down the top options:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. I found a great article on column sorting, [Link](https://adazzle.github.io/react-data-grid/docs/examples/column-sorting) which seems to take the work out of it for you. It has a long column and basically shows how to feed the data in and get every single column to sort at the same time. Seems like a no-brainer but, I got a little stuck on how to make the classes/functions work together (as classes are my biggest nemesis in coding). I tried 3 ways different and swiftly went back to original code.
 
-## Learn More
+2. Write sort function - I do have a fantastic sort function but -it feels like it's missing something. not quite sure but when I try to use it the same way I made the search function work it falls apart. I left it in, because in the same way that classes are something I have to befriend, functions are  old friends. I tried building my sorts out in a special data land but like the search functions they seemed to migrate. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Usage
+### How do you use this project? This is meant for anyone looking for a more structured approach to exercise and working out. If you are looking to keep an easy to manage website 
+ 
+## Author 
+Rachael Kelm-Southworth
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* [linkedin](https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3) 
 
-### Analyzing the Bundle Size
+* [Portfolio](https://rksouth.github.io/Portfolio/ )
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* [github](https://github.com/RKSouth/)
 
-### Making a Progressive Web App
+ ## Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+I would like to thank Kerwin, Manuel, Roger, Jerome and all my classmates for helping me understand this subject matter and anyone that contributed to make the base code.
 
-### Advanced Configuration
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
