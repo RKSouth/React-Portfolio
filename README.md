@@ -20,7 +20,7 @@
 
 
 ## Deployed Site
-[ClickClick!]( https://rksouth.github.io/React-Portfolio/)
+[ClickClick!](https://rksouth.github.io/React-Portfolio/)
 
 ## Features 
 
@@ -31,7 +31,7 @@ Ever since I started building portfolios I always wanted the single page display
 
 First I started by calling all my pages as part of the Homepage:
 
-![Home](/Image/CodeHomePage.png)
+![Home](/Images/CodeHomePage.png)
 
 However, the real trick was getting the Navigation to auto-scroll to the section once it was clicked. Many of classmates chose to do a switch route, which I admit, intrigued me. I watched many videos on how to build routes and attempted it several times, unsuccessfully.  
 Then, Manuel taught me how to use id's in react. 
