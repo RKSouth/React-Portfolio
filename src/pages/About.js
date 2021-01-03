@@ -19,7 +19,7 @@ function About() {
             
             </p>      
             <p>
-              Skills: HTML, CSS, JavaScript, jQuery, node.js, python, express.js, mysql, sequelize, mongdb, mongoose, chart.js, p5.js Restful Routes, handlebars, API's, axios, Heavy Metal Analysis using ICP-OES, ICP-MS
+              Skills:  JavaScript,  node.js, python, mysql, p5.js, Restful Routes 
               </p>
            
             </div>
