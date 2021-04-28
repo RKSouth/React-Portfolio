@@ -10,7 +10,7 @@ function Snake() {
             <p class="card-text">My take on the snake game, using p5.js</p>
         <a href="https://github.com/RKSouth/Snake-Game">Github Link</a>
         <span> || </span>
-          <a href="https://rksouth.github.io/drink-to-the-weather/">Live Deployment</a>
+          <a href="https://rksouth.github.io/Snake-Game/">Live Deployment</a>
           <hr/>
           <img src={GameOver} className="card-Image-fluid" alt="bar app"/>
           </div>
