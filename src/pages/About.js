@@ -1,4 +1,5 @@
 import React from 'react';
+import "../App.css"
 // import Me from '../Images/ME.jpg';
 function About() {
     return (
@@ -7,7 +8,7 @@ function About() {
           <div className="card-body">
             <h5 className="card-title">About Me</h5>
            
-            <p className="card-text"/>
+           
               <div className="image-wrapper float-left pr-3">
                 <div className="card-body">
          

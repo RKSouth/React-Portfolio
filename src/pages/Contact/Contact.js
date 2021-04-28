@@ -16,7 +16,7 @@ function Contact() {
               <span> || </span>
               <a href="https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3">Connect on Linkedin</a>
               <span> || </span>
-              <a href="https://docs.google.com/document/d/1Z4wGrJbG7TamRr16WFWznH9-caVI6F3ocxiDRfPE-rQ/edit?usp=sharing" id ="Portfolio">View Resume</a>
+              <a href="https://drive.google.com/file/d/1bJ3-sK_ANqEEAlkjbfabjbW56gM6OOlg/view?usp=sharing" id ="Portfolio">View Resume</a>
             
          
             <hr className="my-4" />
