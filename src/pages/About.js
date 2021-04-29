@@ -6,7 +6,7 @@ function About() {
     <div className="container col-sm-10 col-md-8 col-lg-8 mr-20 ml-2> ">
         <div className="card-row">
           <div className="card-body">
-            <h5 className="card-title">About Me</h5>
+            <h3 className="card-title">About Me</h3>
            
            
               <div className="image-wrapper float-left pr-3">

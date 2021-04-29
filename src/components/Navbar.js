@@ -1,8 +1,5 @@
 import React from 'react'
-import About from '../pages/About'
-import Contact from '../pages/Contact/Contact'
-import Portfolio from '../pages/Portfolio'
-import Home from '../pages/Home'
+
 
 function Navbar() {
   return (
