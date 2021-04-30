@@ -20,7 +20,7 @@ function About() {
             
             </p>      
             <p>
-              Skills:  JavaScript,  node.js, python, mysql, p5.js, Restful Routes 
+              <strong>Skills:</strong> HTML, CSS, JavaScript,  node.js, python, mysql, p5.js, Restful Routes 
               </p>
            
             </div>
