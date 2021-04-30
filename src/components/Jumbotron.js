@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from "../Navbar"
+import Navbar from "./Navbar"
 import Me from '../Images/ME.jpg';
-import './Jumbostyle.css'
+import './Compstyle.css'
 
 function Jumbotron() {
   return (
