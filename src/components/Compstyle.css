@@ -22,6 +22,7 @@ img {
     max-width: 15vw;
     max-height: 15vh;
 }
+/* projects */
 
 .carousel-inner {
     min-height: 300px;
@@ -36,4 +37,22 @@ img {
 .card-Image-fluid, .card-text {
     max-height: 240px;
     margin: 3%;
+}
+
+/* navbar */
+
+/* a.nav-link {
+    color: #000 !important;
+} */
+/* .navbar-light .navbar-nav .nav-link:after {
+    filter: invert(100%);
+}
+.navbar-light .navbar-nav .nav-link:before {
+    color:rgb(65, 86, 88) !important;
+    outline: rgba(91, 93, 97, 0.293) auto 1px; 
+ } */
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color:rgb(75, 88, 65) !important;
+    outline: rgba(6, 26, 66, 0.293) auto 1px; 
 }
