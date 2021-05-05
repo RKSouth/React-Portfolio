@@ -9,35 +9,35 @@ function Snake() {
 
         <div className="card  col-md-6 p-3">
         <div className="card-Image">
-          <h5 class="card-title">Snake Game</h5>
+          <h5 className="card-title">Snake Game</h5>
           <a href="https://github.com/RKSouth/Snake-Game">Github Link</a>
             <span> || </span>
               <a href="https://rksouth.github.io/Snake-Game/">Live Deployment</a>
               <hr/>
-        <div id="carouselSnake" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carouselSnake" data-slide-to="0" class="active"></li>
+        <div id="carouselSnake" className="carousel slide" data-ride="carousel">
+          <ol className="carousel-indicators">
+            <li data-target="#carouselSnake" data-slide-to="0" className="active"></li>
             <li data-target="#carouselSnake" data-slide-to="1"></li>
             <li data-target="#carouselSnake" data-slide-to="2"></li>
           </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img class="card-Image-fluid" src={GameOver} alt="Home Page"/>
+          <div className="carousel-inner">
+            <div className="carousel-item active">
+              <img className="card-Image-fluid" src={GameOver} alt="Home Page"/>
             </div>
-            <div class="carousel-item">
-              <img class="card-Image-fluid" src={Code} alt="Second slide"/>
+            <div className="carousel-item">
+              <img className="card-Image-fluid" src={Code} alt="Second slide"/>
             </div>
-            <div class="carousel-item">
-               <p class="card-text">My take on the snake game, using p5.js. It was built using classes, and mechanics that change based off score.</p>
+            <div className="carousel-item">
+               <p className="card-text">My take on the snake game, using p5.js. It was built using classNamees, and mechanics that change based off score.</p>
             </div>
           </div>
-                <a class="carousel-control-prev" href="#carouselSnake" role="button" data-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Previous</span>
+                <a className="carousel-control-prev" href="#carouselSnake" role="button" data-slide="prev">
+                  <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span className="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselSnake" role="button" data-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Next</span>
+                <a className="carousel-control-next" href="#carouselSnake" role="button" data-slide="next">
+                  <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span className="sr-only">Next</span>
                 </a>
               </div>
               </div>
