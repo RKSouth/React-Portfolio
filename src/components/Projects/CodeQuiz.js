@@ -1,6 +1,7 @@
 import React from 'react';
 import QuizHome from '../Images/FinishedProduct.png'
 import Code from '../Images/Quiz-Code.png'
+import '../Compstyle.css'
 
 function Quiz() {
     return (

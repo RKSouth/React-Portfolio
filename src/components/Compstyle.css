@@ -23,5 +23,14 @@ img {
     max-height: 15vh;
 }
 
+.carousel-inner {
+    min-height: 200px;
+}
 
-
+.carousel-control-next,
+.carousel-control-prev , .carousel-indicators {
+    filter: invert(100%);
+}
+.card-Image-fluid {
+    max-height: 150px;
+}

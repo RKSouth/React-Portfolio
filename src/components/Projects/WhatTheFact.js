@@ -1,6 +1,7 @@
 import React from 'react';
 import Facts from '../Images/WhattheFact.png'
 import Code from '../Images/WTF-Code.png'
+import '../Compstyle.css'
 
 function WTF() {
     return (

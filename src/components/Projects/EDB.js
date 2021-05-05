@@ -1,6 +1,7 @@
 import React from 'react';
 import EDB from "../Images/eatdaburgers.png"
 import Code from "../Images/EDB-Code.png"
+import '../Compstyle.css'
 
 function Burgers() {
     return (

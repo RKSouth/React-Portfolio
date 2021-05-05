@@ -1,6 +1,7 @@
 import React from 'react';
 import GameOver from '../Images/GameOver.png'
 import Code from '../Images/Snake-Code.png'
+import '../Compstyle.css'
 
 function Snake() {
     return (

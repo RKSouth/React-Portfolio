@@ -1,6 +1,7 @@
 import React from 'react';
 import Game from '../Images/ClickerGame.png'
 import Code from '../Images/ClickGame-Code.png'
+import '../Compstyle.css'
 
 function Clicker() {
     return (
