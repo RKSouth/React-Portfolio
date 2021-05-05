@@ -10,23 +10,23 @@ import Snake from "../../components/Projects/SnakeGame"
 function Portfolio() {
     return (
     <div className="main" id ="Portfolio">
-      <div className="container col-sm-10 col-md-8 col-lg-8>">
+      <div className="container>">
         <div className="card-row">
           <div className="card-body">
             <h5 className="card-title">Portfolio</h5>
             <hr className="my-4"/>
-              <div className="row m-1" >
+              <div className="row" >
                 {/* image card */}
                <Cocktails />
                <Burgers />
               </div>
           
-              <div className="row m-1" >
+              <div className="row" >
                 {/* image card */}
                <Quiz />
                <WTF />
               </div>
-               <div className="row m-1" >
+               <div className="row" >
                 {/* image card */}
                <Snake />
                <Clicker />
