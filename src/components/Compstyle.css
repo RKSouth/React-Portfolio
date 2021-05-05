@@ -32,7 +32,6 @@ img {
 .carousel-control-next,
 .carousel-control-prev , .carousel-indicators {
     filter: invert(100%);
-    margin: 3%;
 }
 .card-Image-fluid, .card-text {
     max-height: 240px;
