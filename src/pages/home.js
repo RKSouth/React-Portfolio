@@ -1,7 +1,7 @@
 import React from 'react'
 import Contact from './Contact/Contact'
 import About from './About'
-import Portfolio from './Portfolio/Portfolio'
+import Portfolio from './Portfolio'
 import Jumbotron from '../components/Jumbotron'
 import Footer from '../components/Footer'
 
