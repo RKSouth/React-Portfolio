@@ -11,8 +11,8 @@ function About() {
            
               <div className="image-wrapper float-left pr-3">
              <div className="card-text"  className="single-post-content-wrapper p-3">
-             <p> I recently received a Certificate in Full Stack Web Development from UC Berkeley Extension but have been studying web development and design full time since February 2020. I have also taken courses in design, photo editing, python and graphql.  I have BS in
-              Environmental Science and Chemistry from The Evergreen State College that I received in 2011. I have passion for solving problems using logical steps and critical thinking.
+             <p> I recently received a Certificate in Full Stack Web Development from UC Berkeley Extension but have been studying web development and design full time since February 2020. I have also taken courses in design, photo editing, python and graphql.  I have a BS in
+              Environmental Science and Chemistry from The Evergreen State College that I received in 2011. I have a passion for solving problems using logical steps and critical thinking.
             
             </p>      
             <p>
