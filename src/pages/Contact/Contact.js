@@ -1,5 +1,4 @@
 import React from 'react'
-import './Constyle.css'
 
 function Contact() {
     return (
