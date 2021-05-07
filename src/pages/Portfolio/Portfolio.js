@@ -6,6 +6,8 @@ import Burgers from '../../components/Projects/EDB'
 import WTF from "../../components/Projects/WhatTheFact"
 import Quiz from "../../components/Projects/CodeQuiz"
 import Snake from "../../components/Projects/SnakeGame"
+import Carbon from "../../components/Projects/CarbonDiversity"
+import AxelTheBird from "../../components/Projects/Axel"
 
 function Portfolio() {
     return (
@@ -30,6 +32,11 @@ function Portfolio() {
                 {/* image card */}
                <Snake />
                <Clicker />
+              </div>
+              <div className="row" >
+                {/* image card */}
+               <AxelTheBird />
+               <Carbon />
               </div>
           </div>  
         </div>
