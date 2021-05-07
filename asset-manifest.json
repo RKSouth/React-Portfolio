@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.3c1e73f7.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.0c3963ab.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.0c3963ab.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.dad6d33b.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.1ca6deff.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.1ca6deff.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.c037c180.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.c037c180.js.map",
     "static/js/2.7a07367f.chunk.js": "/React-Portfolio/static/js/2.7a07367f.chunk.js",
     "static/js/2.7a07367f.chunk.js.map": "/React-Portfolio/static/js/2.7a07367f.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.3c1e73f7.chunk.css.map": "/React-Portfolio/static/css/main.3c1e73f7.chunk.css.map",
+    "static/css/main.dad6d33b.chunk.css.map": "/React-Portfolio/static/css/main.dad6d33b.chunk.css.map",
     "static/js/2.7a07367f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7a07367f.chunk.js.LICENSE.txt",
     "static/media/AxelTheBird-Code.93c5eb43.png": "/React-Portfolio/static/media/AxelTheBird-Code.93c5eb43.png",
     "static/media/AxelTheBird.41968a48.png": "/React-Portfolio/static/media/AxelTheBird.41968a48.png",
@@ -20,19 +20,19 @@
     "static/media/EDB-Code.233d2edb.png": "/React-Portfolio/static/media/EDB-Code.233d2edb.png",
     "static/media/FinishedProduct.0930f554.png": "/React-Portfolio/static/media/FinishedProduct.0930f554.png",
     "static/media/GameOver.a9b0e142.png": "/React-Portfolio/static/media/GameOver.a9b0e142.png",
-    "static/media/ME.20d89714.jpg": "/React-Portfolio/static/media/ME.20d89714.jpg",
     "static/media/Quiz-Code.0fa289b5.png": "/React-Portfolio/static/media/Quiz-Code.0fa289b5.png",
     "static/media/Snake-Code.f9c9ade2.png": "/React-Portfolio/static/media/Snake-Code.f9c9ade2.png",
     "static/media/WTF-Code.0d0007a5.png": "/React-Portfolio/static/media/WTF-Code.0d0007a5.png",
     "static/media/WhattheFact.4a84138a.png": "/React-Portfolio/static/media/WhattheFact.4a84138a.png",
+    "static/media/Pagestyle.css": "/React-Portfolio/static/media/curtains2.aca6202f.jpg",
     "static/media/eatdaburgers.879fd4fc.png": "/React-Portfolio/static/media/eatdaburgers.879fd4fc.png",
     "static/media/party-drinks.5299f23c.png": "/React-Portfolio/static/media/party-drinks.5299f23c.png",
-    "static/media/Portstyle.css": "/React-Portfolio/static/media/pexels-eberhard-grossgasteiger-1743392.dcd33bb9.jpg"
+    "static/media/rachael.8e76705e.jpg": "/React-Portfolio/static/media/rachael.8e76705e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c037c180.js",
     "static/js/2.7a07367f.chunk.js",
-    "static/css/main.3c1e73f7.chunk.css",
-    "static/js/main.0c3963ab.chunk.js"
+    "static/css/main.dad6d33b.chunk.css",
+    "static/js/main.1ca6deff.chunk.js"
   ]
 }
