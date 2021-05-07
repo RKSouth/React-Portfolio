@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.3c1e73f7.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.4dd0fe4a.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.4dd0fe4a.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.0c3963ab.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.0c3963ab.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.c037c180.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.c037c180.js.map",
     "static/js/2.7a07367f.chunk.js": "/React-Portfolio/static/js/2.7a07367f.chunk.js",
@@ -10,6 +10,10 @@
     "index.html": "/React-Portfolio/index.html",
     "static/css/main.3c1e73f7.chunk.css.map": "/React-Portfolio/static/css/main.3c1e73f7.chunk.css.map",
     "static/js/2.7a07367f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7a07367f.chunk.js.LICENSE.txt",
+    "static/media/AxelTheBird-Code.93c5eb43.png": "/React-Portfolio/static/media/AxelTheBird-Code.93c5eb43.png",
+    "static/media/AxelTheBird.41968a48.png": "/React-Portfolio/static/media/AxelTheBird.41968a48.png",
+    "static/media/CarbonDiversity-Code.3c618d1d.png": "/React-Portfolio/static/media/CarbonDiversity-Code.3c618d1d.png",
+    "static/media/CarbonDiversity.06efad15.png": "/React-Portfolio/static/media/CarbonDiversity.06efad15.png",
     "static/media/ClickGame-Code.0ffe7668.png": "/React-Portfolio/static/media/ClickGame-Code.0ffe7668.png",
     "static/media/ClickerGame.cc0adb2d.png": "/React-Portfolio/static/media/ClickerGame.cc0adb2d.png",
     "static/media/Drinks-Code.74202ab2.png": "/React-Portfolio/static/media/Drinks-Code.74202ab2.png",
@@ -29,6 +33,6 @@
     "static/js/runtime-main.c037c180.js",
     "static/js/2.7a07367f.chunk.js",
     "static/css/main.3c1e73f7.chunk.css",
-    "static/js/main.4dd0fe4a.chunk.js"
+    "static/js/main.0c3963ab.chunk.js"
   ]
 }
