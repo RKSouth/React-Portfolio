@@ -8,7 +8,7 @@ function Burgers() {
         <div className="card  col-md-6 p-3">
         <div className="card-Image">
           <h5 className="card-title">Eat-Da-Burgers</h5>
-          <a href="https://github.com/RKSouth/NodeExpressHandlebar">Github Link</a>
+          <a href="https://github.com/RKSouth/NodeExpressHandlebars">Github Link</a>
             <span> || </span>
               <a href="https://lit-garden-17610.herokuapp.com/">Live Deployment</a>
               <hr/>
