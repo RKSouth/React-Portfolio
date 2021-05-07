@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.b2b6cb69.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.58d7d424.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.58d7d424.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.3c1e73f7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.4dd0fe4a.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.4dd0fe4a.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.c037c180.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.c037c180.js.map",
     "static/js/2.7a07367f.chunk.js": "/React-Portfolio/static/js/2.7a07367f.chunk.js",
     "static/js/2.7a07367f.chunk.js.map": "/React-Portfolio/static/js/2.7a07367f.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.b2b6cb69.chunk.css.map": "/React-Portfolio/static/css/main.b2b6cb69.chunk.css.map",
+    "static/css/main.3c1e73f7.chunk.css.map": "/React-Portfolio/static/css/main.3c1e73f7.chunk.css.map",
     "static/js/2.7a07367f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7a07367f.chunk.js.LICENSE.txt",
     "static/media/ClickGame-Code.0ffe7668.png": "/React-Portfolio/static/media/ClickGame-Code.0ffe7668.png",
     "static/media/ClickerGame.cc0adb2d.png": "/React-Portfolio/static/media/ClickerGame.cc0adb2d.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.c037c180.js",
     "static/js/2.7a07367f.chunk.js",
-    "static/css/main.b2b6cb69.chunk.css",
-    "static/js/main.58d7d424.chunk.js"
+    "static/css/main.3c1e73f7.chunk.css",
+    "static/js/main.4dd0fe4a.chunk.js"
   ]
 }
