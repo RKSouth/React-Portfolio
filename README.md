@@ -1,7 +1,7 @@
 # React Portfolio
 ![React Portfolio](Images/FrontPage.png)
 
-### A simple app to help you sort through your employees by name
+### A website I designed to highlight my best work. My goal was to make it interesting to look at but also easy to use and get information on me and my skills quickly. 
 
 ## Table of Contents
 * [Technologies Used](Technologies_Used)
