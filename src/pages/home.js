@@ -1,5 +1,5 @@
 import React from 'react'
-import Contact from './Contact/Contact'
+import Contact from './Contact'
 import About from './About'
 import Portfolio from './Portfolio'
 import Jumbotron from '../components/Jumbotron'
