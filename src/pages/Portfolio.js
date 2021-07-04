@@ -1,13 +1,15 @@
 import React from 'react';
 import "./Pagestyle.css"
-import Cocktails from '../components/Projects/Drinks'
-import Clicker from '../components/Projects/Clicker-Game'
-import Burgers from '../components/Projects/EDB'
-import WTF from "../components/Projects/WhatTheFact"
-import Quiz from "../components/Projects/CodeQuiz"
-import Snake from "../components/Projects/SnakeGame"
-import Carbon from "../components/Projects/CarbonDiversity"
-import AxelTheBird from "../components/Projects/Axel"
+import Cocktails from '../components/Projects/Drinks';
+import Clicker from '../components/Projects/Clicker-Game';
+import Burgers from '../components/Projects/EDB';
+import WTF from "../components/Projects/WhatTheFact";
+import Quiz from "../components/Projects/CodeQuiz";
+import Snake from "../components/Projects/SnakeGame";
+import Carbon from "../components/Projects/CarbonDiversity";
+import AxelTheBird from "../components/Projects/Axel";
+import Books from "../components/Projects/BookNook";
+import 
 
 function Portfolio() {
     return (

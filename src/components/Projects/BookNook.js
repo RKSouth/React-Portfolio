@@ -7,7 +7,7 @@ function Books() {
     return (
         <div className="card  col-md-6 p-3">
         <div className="card-Image">
-          <h5 className="card-title">Axel The Bird</h5>
+          <h5 className="card-title">The Book Nook</h5>
           <a href="https://github.com/RKSouth/AxelTheBird">Github Link</a>
             <span> || </span>
               <a href="https://rksouth.github.io/AxelTheBird/">Live Deployment</a>
