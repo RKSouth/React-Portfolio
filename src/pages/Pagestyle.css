@@ -58,3 +58,29 @@ hr.my-4 {
 .connect {
     margin-bottom: 60px;
 }
+
+@media only screen and (max-width: 760px) {
+    h1 {
+        font-size: 30px !important;
+    }
+    .card {
+        margin: center;
+        height: max-content;
+ }
+ .card-body {
+    margin: center !important;
+ }
+
+ .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl { 
+    margin: center !important;
+
+     
+ }
+
+ /* .jumbotron-container {
+     margin-left: -100px !important;
+ }
+ .card-title {
+    margin-left: 3px !important;
+ } */
+}
