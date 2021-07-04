@@ -21,8 +21,8 @@ h1{
 }
 
 #myPicture {
-    width: 11vw !important;
-    height:25vh !important;
+    width: 211px !important;
+    height:211px !important;
     border-radius: 10px;
     --box-shadow-color: rgb(27, 31, 24);
     box-shadow: 5px 6px 7px var(--box-shadow-color);
