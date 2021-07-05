@@ -9,7 +9,7 @@ import Snake from "../components/Projects/SnakeGame";
 import Carbon from "../components/Projects/CarbonDiversity";
 import AxelTheBird from "../components/Projects/Axel";
 import Books from "../components/Projects/BookNook";
-import 
+import Password from "../components/Projects/passwordGenerator";
 
 function Portfolio() {
     return (
@@ -22,14 +22,19 @@ function Portfolio() {
               <div className="row" >
                 {/* image card */}
                <Cocktails />
-               <Burgers />
+               <Books />
               </div>
-          
+              <div className="row" >
+                {/* image card */}
+               <Burgers />
+               <Password />
+              </div>
               <div className="row" >
                 {/* image card */}
                <Quiz />
                <WTF />
               </div>
+            
                <div className="row" >
                 {/* image card */}
                <Snake />
